@@ -11,7 +11,9 @@
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/ranjit-kale/">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=linkdin&logoColor=white" alt="Linkdin Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-red?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkdin Badge"/>
+   
+
   </a>
    
 </div>
