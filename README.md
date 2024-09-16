@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/ranjit-kale/">
-    <img src="https://img.shields.io/badge/LinkedIn-red?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkdin Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkdin Badge"/>
    
 
   </a>
@@ -19,7 +19,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,flutter,dart,firebase,github,git,xd&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,java,angular,js,hibernate,mysql,flutter,dart,firebase,github,git,xd&perline=5)](https://skillicons.dev)
 
 
 <br>
