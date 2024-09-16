@@ -19,7 +19,8 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,java,angular,js,hibernate,mysql,flutter,dart,firebase,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,java,angular,js,hibernate,mysql,flutter,github)](https://skillicons.dev)
+<!--[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,java,angular,js,hibernate,mysql,flutter,dart,firebase,github)](https://skillicons.dev) -->
 
 
 <br>
